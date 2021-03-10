@@ -1,0 +1,28 @@
+
+	<style type="text/css">
+	
+	#table{
+
+		height: 25px;
+		border-radius: 5px;
+		padding: 4px;
+		border: solid thin #aaa;
+		width: 100%;
+	}
+
+	#button{
+
+		padding: 10px;
+		width: 100px;
+		color: white;
+		background-color: lightblue;
+		border: none;
+	}
+
+	#box{
+
+		background-color: transparent;
+		margin: auto;
+		width: 300px;
+		padding: 20px;
+	}
